@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FIRSTstar12
 - 👀 I’m interested in Robots
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Classified
 - 📫 How to reach me Classified
 
