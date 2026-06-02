@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FIRSTstar12
-- 👀 I’m interested in Robots
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Classified
-- 📫 How to reach me Classified
+- Hi, I’m @FIRSTstar12
+- I’m interested in Robots
+- I’m currently learning Java
+- I know Python, Javascript, and Java
 
 <!---
 FIRSTstar12/FIRSTstar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
