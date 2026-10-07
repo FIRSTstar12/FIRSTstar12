@@ -1,5 +1,5 @@
 - Hi, I’m @FIRSTstar12
-- I’m interested in Robots
+- I’m interested in Robots, AI, and predictive programs
 - I’m currently learning Java
 - I know Python, Javascript, and Java
 
